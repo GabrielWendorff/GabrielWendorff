@@ -28,7 +28,7 @@ These are some of the technologies and tools I use:
 
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,figma,aws,autocad,pycharm,vscode,)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,figma,aws,autocad,pycharm,vscode,androidstudio)](https://skillicons.dev)
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielWendorff&layout=compact&langs_count=7&theme=tokyonight"/>
